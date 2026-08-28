@@ -25,7 +25,7 @@ flowchart TD
     E --> E2["Engineering Practices"]
 ```
 
-# swe-lab life cycle follows:
+## swe-lab life cycle follows:
 
 ```text
 Understand → Design → Build → Experiment → Validate → Document → Improve
