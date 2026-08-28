@@ -27,7 +27,6 @@ flowchart TD
 
 # swe-lab life cycle follows:
        
-```markdown
 ```mermaid
 flowchart LR
     A["Understand"] --> B["Design"]
