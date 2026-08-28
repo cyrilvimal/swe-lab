@@ -20,24 +20,48 @@
                                ↓
                          Better Engineering
 
+
+```mermaid
+flowchart TD
+    A["Software Engineering Lab"]
+
+    A --> B["Knowledge"]
+    A --> C["Labs & Experiments"]
+    A --> D["Projects"]
+    A --> E["Documentation"]
+
+    B --> B1["Programming"]
+    B --> B2["Architecture"]
+    B --> B3[".NET"]
+    B --> B4["Databases"]
+
+    C --> C1["POCs"]
+    C --> C2["Benchmarks"]
+    C --> C3["Troubleshooting"]
+
+    D --> D1["Reference Projects"]
+    D --> D2["Engineering Projects"]
+
+    E --> E1["Lessons Learned"]
+    E --> E2["Engineering Practices"]
+
 > swe-lab life cycle follows:
-        Question / Problem
-               ↓
-        Research / Understand
-               ↓
-        Design
-               ↓
-        Implement
-               ↓
-        Experiment
-               ↓
-        Test / Validate
-               ↓
-        Document
-               ↓
-        Record Trade-offs
-               ↓
-        Refine
+       
+```markdown
+```mermaid
+flowchart LR
+    A["Understand"] --> B["Design"]
+    B --> C["Build"]
+    C --> D["Experiment"]
+    D --> E["Validate"]
+    E --> F["Document"]
+    F --> G["Improve"]
+    G --> A
+
+```text
+Understand → Design → Build → Experiment → Validate → Document → Improve
+      ↑                                                        ↓
+      └────────────────────────────────────────────────────────┘
 
 
 > A practical knowledge base of software engineering concepts, experiments, reference implementations, and technical notes.
