@@ -1,4 +1,0 @@
-D:\A Learner's Inventory\WCF\RemotingFull\IHelloRemotingService\bin\Debug\IHelloRemotingService.dll
-D:\A Learner's Inventory\WCF\RemotingFull\IHelloRemotingService\bin\Debug\IHelloRemotingService.pdb
-D:\A Learner's Inventory\WCF\RemotingFull\IHelloRemotingService\obj\Debug\IHelloRemotingService.dll
-D:\A Learner's Inventory\WCF\RemotingFull\IHelloRemotingService\obj\Debug\IHelloRemotingService.pdb

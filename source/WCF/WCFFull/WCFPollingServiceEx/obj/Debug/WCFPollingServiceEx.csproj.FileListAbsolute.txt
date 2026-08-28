@@ -1,5 +1,0 @@
-D:\A Learner's Inventory\WCF\WCFFull\WCFPollingServiceEx\bin\Debug\WCFPollingServiceEx.dll.config
-D:\A Learner's Inventory\WCF\WCFFull\WCFPollingServiceEx\bin\Debug\WCFPollingServiceEx.dll
-D:\A Learner's Inventory\WCF\WCFFull\WCFPollingServiceEx\bin\Debug\WCFPollingServiceEx.pdb
-D:\A Learner's Inventory\WCF\WCFFull\WCFPollingServiceEx\obj\Debug\WCFPollingServiceEx.dll
-D:\A Learner's Inventory\WCF\WCFFull\WCFPollingServiceEx\obj\Debug\WCFPollingServiceEx.pdb

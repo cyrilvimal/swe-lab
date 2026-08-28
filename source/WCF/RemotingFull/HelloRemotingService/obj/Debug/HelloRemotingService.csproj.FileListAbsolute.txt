@@ -1,7 +1,0 @@
-D:\A Learner's Inventory\WCF\RemotingFull\HelloRemotingService\bin\Debug\HelloRemotingService.dll
-D:\A Learner's Inventory\WCF\RemotingFull\HelloRemotingService\bin\Debug\HelloRemotingService.pdb
-D:\A Learner's Inventory\WCF\RemotingFull\HelloRemotingService\bin\Debug\IHelloRemotingService.dll
-D:\A Learner's Inventory\WCF\RemotingFull\HelloRemotingService\bin\Debug\IHelloRemotingService.pdb
-D:\A Learner's Inventory\WCF\RemotingFull\HelloRemotingService\obj\Debug\HelloRemotingService.csprojResolveAssemblyReference.cache
-D:\A Learner's Inventory\WCF\RemotingFull\HelloRemotingService\obj\Debug\HelloRemotingService.dll
-D:\A Learner's Inventory\WCF\RemotingFull\HelloRemotingService\obj\Debug\HelloRemotingService.pdb
