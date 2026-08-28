@@ -1,5 +1,45 @@
 ﻿# Software Engineering Lab
 
+                     ┌─────────────────────┐
+                    │  Software Engineering│
+                    │        Lab           │
+                    └──────────┬──────────┘
+                               │
+        ┌──────────────────────┼──────────────────────┐
+        ↓                      ↓                      ↓
+   Knowledge                Code/Labs              Projects
+        │                      │                      │
+        ↓                      ↓                      ↓
+   Concepts                Experiments           Integration
+   Patterns                POCs                   Architecture
+   Practices               Benchmarks             Engineering
+        │                      │                      │
+        └──────────────────────┼──────────────────────┘
+                               ↓
+                         Lessons Learned
+                               ↓
+                         Better Engineering
+
+> swe-lab life cycle follows:
+        Question / Problem
+               ↓
+        Research / Understand
+               ↓
+        Design
+               ↓
+        Implement
+               ↓
+        Experiment
+               ↓
+        Test / Validate
+               ↓
+        Document
+               ↓
+        Record Trade-offs
+               ↓
+        Refine
+
+
 > A practical knowledge base of software engineering concepts, experiments, reference implementations, and technical notes.
 
 Welcome to my **Software Engineering Lab**.
