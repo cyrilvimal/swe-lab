@@ -44,6 +44,7 @@ flowchart TD
 
     E --> E1["Lessons Learned"]
     E --> E2["Engineering Practices"]
+```
 
 > swe-lab life cycle follows:
        
