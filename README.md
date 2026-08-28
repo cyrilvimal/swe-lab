@@ -26,7 +26,8 @@ flowchart TD
 ```
 
 # swe-lab life cycle follows:
-       
+
+{% comment %} 
 ```mermaid
 flowchart LR
     A["Understand"] --> B["Design"]
@@ -37,6 +38,7 @@ flowchart LR
     F --> G["Improve"]
     G --> A
 ```
+{% endcomment %}
 
 ```text
 Understand → Design → Build → Experiment → Validate → Document → Improve
