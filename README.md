@@ -1,26 +1,5 @@
 ﻿# Software Engineering Lab
 
-                    ┌─────────────────────┐
-                    │  Software Engineering│
-                    │        Lab           │
-                    └──────────┬──────────┘
-                               │
-        ┌──────────────────────┼──────────────────────┐
-        ↓                      ↓                      ↓
-   Knowledge                Code/Labs              Projects
-        │                      │                      │
-        ↓                      ↓                      ↓
-   Concepts                Experiments           Integration
-   Patterns                POCs                   Architecture
-   Practices               Benchmarks             Engineering
-        │                      │                      │
-        └──────────────────────┼──────────────────────┘
-                               ↓
-                         Lessons Learned
-                               ↓
-                         Better Engineering
-
-
 ```mermaid
 flowchart TD
     A["Software Engineering Lab"]
@@ -46,7 +25,7 @@ flowchart TD
     E --> E2["Engineering Practices"]
 ```
 
-> swe-lab life cycle follows:
+# swe-lab life cycle follows:
        
 ```markdown
 ```mermaid
@@ -58,12 +37,13 @@ flowchart LR
     E --> F["Document"]
     F --> G["Improve"]
     G --> A
+```
 
 ```text
 Understand → Design → Build → Experiment → Validate → Document → Improve
       ↑                                                        ↓
       └────────────────────────────────────────────────────────┘
-
+```
 
 > A practical knowledge base of software engineering concepts, experiments, reference implementations, and technical notes.
 
