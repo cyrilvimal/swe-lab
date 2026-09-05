@@ -1,0 +1,1 @@
+"""Example package demonstrating module and package structure."""
