@@ -6,6 +6,13 @@
 	],
 	"settings": {
 		"dotnet.preferCSharpExtension": true,
-		"dotnet.defaultSolution": "disable"
+		"dotnet.defaultSolution": "disable",
+		"python-envs.pythonProjects": [
+			{
+				"path": "dotnet",
+				"envManager": "ms-python.python:venv",
+				"packageManager": "ms-python.python:pip"
+			}
+		]
 	}
 }

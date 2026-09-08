@@ -2,6 +2,7 @@
 
 
 def demonstrate_types() -> dict:
+    print("Demonstrating various  data types named demonstration")
     return {
         "int": type(1).__name__,
         "float": type(1.0).__name__,
